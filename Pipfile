@@ -8,6 +8,7 @@ django = "*"
 djangorestframework = "*"
 whitenoise = "*"
 django-rest-auth = "*"
+gunicorn = "*"
 
 [dev-packages]
 
